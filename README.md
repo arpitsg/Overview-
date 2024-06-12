@@ -3,7 +3,7 @@
 
 - 💬 Interested in **Data structures algorithms, competitive programming, machine learning and core computer science.**
 
-- 📫 How to reach me **arpitsg@iitk.ac.in**
+- 📫 How to reach me **only.arpit.singh@gmail.com**
 
 - 📄 Know about my experiences: Resume link -> [https://drive.google.com/file/d/1owLBXhTDFrWsRyaYGm2f6BJlA71wd3pU/view?usp=sharing](https://drive.google.com/file/d/1owLBXhTDFrWsRyaYGm2f6BJlA71wd3pU/view?usp=sharing)
 
