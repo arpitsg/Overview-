@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Singh</h1>
-<h3 align="center">I am a final year computer science undergrad at IIT Kanpur.</h3>
+<h3 align="center">I am a 2023 computer science undergrad at IIT Kanpur.</h3>
 
 - 💬 Interested in **Data structures algorithms, competitive programming, machine learning and core computer science.**
 
