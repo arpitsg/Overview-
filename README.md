@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **only.arpit.singh@gmail.com**
 
-- 📄 Know about my experiences: Resume link -> [https://drive.google.com/file/d/1owLBXhTDFrWsRyaYGm2f6BJlA71wd3pU/view?usp=sharing]([https://drive.google.com/file/d/1owLBXhTDFrWsRyaYGm2f6BJlA71wd3pU/view?usp=sharing](https://drive.google.com/file/d/1LM-y0IO9Y9OS6mssyQvDnavNYV20ntBy/view))
+- 📄 Know about my experiences: Resume link -> [Resume](https://drive.google.com/file/d/1LM-y0IO9Y9OS6mssyQvDnavNYV20ntBy/view)
 
 - ⚡ Fun fact **Awarded Best Student Paper Award at 42nd IEEE International Conference on Distributed Computing Systems.**
 
