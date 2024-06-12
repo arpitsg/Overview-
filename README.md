@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Singh</h1>
 <h3 align="center">I am a 2023 computer science undergrad at IIT Kanpur.</h3>
 
-- 💬 Interested in **Data structures algorithms, competitive programming, machine learning and core computer science.**
+- 💬 Interested in **Entrepreneurship , Data structures algorithms, competitive programming, machine learning and core computer science.**
 
 - 📫 How to reach me **only.arpit.singh@gmail.com**
 
